@@ -1,0 +1,15 @@
+C:\Users\lee.dong.geun.note\AppData\Local\Temporary Projects\SocketTest2\bin\Debug\SocketTest2.exe.config
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\bin\Debug\SocketTest2.exe.config
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\obj\Debug\SocketTest2.csprojResolveAssemblyReference.cache
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\obj\Debug\MainWindow.g.cs
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\obj\Debug\App.g.cs
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\obj\Debug\SocketTest2_MarkupCompile.cache
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\obj\Debug\SocketTest2_MarkupCompile.lref
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\bin\Debug\SocketTest2.exe
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\bin\Debug\SocketTest2.pdb
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\obj\Debug\MainWindow.baml
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\obj\Debug\SocketTest2.g.resources
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\obj\Debug\SocketTest2.Properties.Resources.resources
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\obj\Debug\SocketTest2.csproj.GenerateResource.Cache
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\obj\Debug\SocketTest2.exe
+C:\Users\lee.dong.geun.note\Desktop\SocketTest2\obj\Debug\SocketTest2.pdb
